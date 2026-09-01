@@ -13,8 +13,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dxdchd&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxdchd&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dxdchd&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dxdchd&layout=compact&theme=radical" />
 </p>
 
 ---
